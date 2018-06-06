@@ -1,0 +1,181 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    # Site Settings
+    title: My Resume
+    url: ''
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    
+    # Profile information
+    name: Michail Eremin
+    tagline: Programmer
+    # pic: ''  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    
+    # Sidebar links
+    email: eremin.ms92@gmail.com
+    # phone: ''
+    # website: ''
+    linkedin: michail-e-399659160
+    skype: Xenogig
+    telegram: Miwwa
+    # github: sharu725
+    # twitter: '@webjeda'
+
+    languages:
+        - language:
+          idiom: Russian
+          level: Native
+        - language:
+          idiom: English
+          level: Intermediate
+        
+    # interests:
+    #     - interest:
+    #       item: Climbing
+    #       link:
+    #     - interest:
+    #       item: Snowboarding
+    #       link:
+    #     - interest:
+    #       item: Cooking
+    #       link:
+
+
+career-profile: 
+    # title: Career Profile
+    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+
+
+studies: 
+    - education:
+      degree: Math Engineer
+      university: Lipetsk State Technical University
+      time: 2010 - 2015
+      # details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      # elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      # magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      # pellentesque eu, pretium quis, sem."
+
+
+# projects:
+#     title: Projects
+#     # intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+#     #   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+#     projects:
+#       - project:
+#         title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#       - project:
+#         title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - project:
+#         title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - project:
+#         title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - project:
+#         title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+
+# publications:
+#     title: Publications
+#     intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    
+#     publications:
+#       - paper:
+#         title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+#       - paper:
+#         title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - paper:
+#         title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
+
+
+skills:
+    title: Skills &amp; Proficiency
+    skills:
+        - skill:
+          name: Unity
+          level: 90%
+        - skill:
+          name: C#
+          level: 80%
+        - skill:
+          name: Lua
+          level: 70%
+        - skill:
+          name: HTML5 & CSS
+          level: 70%
+        - skill:
+          name: JavaScript
+          level: 90%
+        - skill:
+          name: Node.js
+          level: 80%
+        - skill:
+          name: React.js
+          level: 60%
+        - skill:
+          name: MongoDb
+          level: 70%
+        - skill:
+          name: Git
+          level: 60%
+        - skill:
+          name: SQL
+          level: 50%
+
+experiences:
+  - role: Unity developer
+    time: 2017-07 - 2018-02
+    # company: Intaro
+    details: 'Worked as programmer on casual mobile game from zero to app stores</br>
+Available on Android and iOS </br>
+<a href="https://itunes.apple.com/us/app/stack-town/id1217006582" target="_blank">
+  https://itunes.apple.com/us/app/stack-town/id1217006582
+</a></br>
+<a href="https://play.google.com/store/apps/details?id=com.imbalab.stack.town" target="_blank">
+  https://play.google.com/store/apps/details?id=com.imbalab.stack.town
+</a>'
+
+  - role: Game programmer
+    time: 2016-03 - 2016-08
+    company: Own project
+    details: 'Developed casual puzzle game on Phaser.js, works in desktop and mobile browsers </br>
+Available at <a href="http://y8.com/games/tomb_of_the_universe" target="_blank">http://y8.com/games/tomb_of_the_universe</a>'
+
+  - role: Fullstack Javascript Developer
+    time: 2015-07 - 2016-11
+    company: Own startup
+    details: 'Worked on gambling site </br>
+Node.js backend with MongoDb and RabbitMQ, Vue.js frontend </br>
+Project are down now'
+
+  - role: Fullstack Javascript Developer
+    time: 2014-03 - 2014-10
+    # company: Intaro
+    details: 'Worked on in-house landing page constructor </br>
+Node.js backend with MongoDb, vanilla js frontend'
+
+  - role: Junior PHP Developer
+    time: 2013-04 - 2013-09
+    company: Intaro
+    details: 'Worked with Symphony framework and maked tweeks of sites monitoring system </br>
+    <a href="https://github.com/intaro/pinboard" target="_blank">https://github.com/intaro/pinboard</a>'
+
+# footer: 
+#     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'

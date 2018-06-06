@@ -1,0 +1,13 @@
+{% if site.data.data.career-profile %}
+<section class="section summary-section">
+
+  {% if site.data.data.career-profile.title %}
+  <h2 class="section-title"><i class="fa fa-user"></i>{{ site.data.data.career-profile.title }}</h2>
+  {% endif %}
+
+    <div class="summary">
+      <p>{{ site.data.data.career-profile.text }}</p>
+    </div><!--//summary-->
+    
+</section><!--//section-->
+{% endif %}
