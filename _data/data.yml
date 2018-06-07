@@ -4,7 +4,7 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
+    title: Miwwa's resume
     url: ''
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
@@ -20,7 +20,7 @@ sidebar:
     linkedin: michail-e-399659160
     skype: Xenogig
     telegram: Miwwa
-    # github: sharu725
+    github: Miwwa
     # twitter: '@webjeda'
 
     languages:
@@ -45,7 +45,8 @@ sidebar:
 
 career-profile: 
     # title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'Talented programmer with 3+ years experience in web and game development and ability to quickly pick up and use new languages, tools and softwares.
+    Seeking an exciting and challenging position as a Game Programmer in a company where my programming skills and knowledge can be used to the fullest.'
 
 
 studies: 
@@ -68,22 +69,6 @@ studies:
 #         title: Velocity
 #         link: "#hook"
 #         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#       - project:
-#         title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
-#       - project:
-#         title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#       - project:
-#         title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#       - project:
-#         title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 # publications:
@@ -95,14 +80,6 @@ studies:
 #         title: The Art of Computer Programming
 #         authors: Donald E. Knuth
 #         conference: Addison-Wesley, 1968
-#       - paper:
-#         title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#       - paper:
-#         title: A syntax directed compiler for Algol 60
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
