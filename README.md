@@ -2,23 +2,6 @@
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-I have made this into a Jekyll Theme. Checkout the live demo [here](http://webjeda.com/online-cv/).
-
-<table>
-  <tr>
-    <th>Desktop</th>
-    <th>Mobile</th>
-  </tr>
-  <tr>
-    <td>
-        <img src="/assets/images/desktop.png?raw=true" width="600"/>
-    </td>
-    <td>
-        <img src="/assets/images/mobile.png?raw=true" width="250"/>
-    </td>
-  </tr>
-</table>
-
 ## Installation
 
 * [Fork](https://github.com/sharu725/online-cv/fork) the repository
@@ -27,7 +10,7 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](http://webje
 
 Change all the details from one place: ``_data/data.yml``
 
-Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
+Watch [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
 ## Skins
 
