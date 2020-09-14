@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Michail Eremin
     tagline: Programmer
-    # pic: ''  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: 'profile.jpg'  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: eremin.ms92@gmail.com
@@ -45,7 +45,7 @@ sidebar:
 
 career-profile: 
     # title: Career Profile
-    text: 'Talented programmer with 3+ years experience in web and game development and ability to quickly pick up and use new languages, tools and softwares.
+    text: 'Talented programmer with 5+ years experience in web and game development and ability to quickly pick up and use new languages, tools and softwares.
     Seeking an exciting and challenging position as a Game Programmer in a company where my programming skills and knowledge can be used to the fullest.'
 
 
@@ -86,48 +86,40 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
+          name: Node.js
+          level: 100%
+        - skill:
+          name: React.js
+          level: 80%      
+        - skill:
           name: Unity
           level: 90%
         - skill:
           name: C#
           level: 80%
         - skill:
-          name: Lua
-          level: 70%
-        - skill:
-          name: HTML5 & CSS
-          level: 70%
-        - skill:
-          name: JavaScript
-          level: 90%
-        - skill:
-          name: Node.js
-          level: 80%
-        - skill:
-          name: React.js
-          level: 60%
-        - skill:
           name: MongoDb
           level: 70%
         - skill:
           name: Git
-          level: 60%
+          level: 80%
         - skill:
           name: SQL
-          level: 50%
+          level: 80%
+        - skill:
+          name: HTML5 & CSS
+          level: 50%          
 
 experiences:
+  - role: Fullstack Javascript Developed
+    time: 2018-08 - 2020-09
+    company: Kosmos Games
+    details: 'Worked on Node.js backend of web and mobile multiplayer games<br/>
+Developed custom analytics solutions and web-based dev tools'
+
   - role: Unity developer
     time: 2017-07 - 2018-02
-    # company: Intaro
-    details: 'Worked as programmer on casual mobile game from zero to app stores</br>
-Available on Android and iOS </br>
-<a href="https://itunes.apple.com/us/app/stack-town/id1217006582" target="_blank">
-  https://itunes.apple.com/us/app/stack-town/id1217006582
-</a></br>
-<a href="https://play.google.com/store/apps/details?id=com.imbalab.stack.town" target="_blank">
-  https://play.google.com/store/apps/details?id=com.imbalab.stack.town
-</a>'
+    details: 'Developed casual mobile game from zero to app stores</br>Available on Android and iOS'
 
   - role: Game programmer
     time: 2016-03 - 2016-08
@@ -139,12 +131,10 @@ Available at <a href="http://y8.com/games/tomb_of_the_universe" target="_blank">
     time: 2015-07 - 2016-11
     company: Own startup
     details: 'Worked on gambling site </br>
-Node.js backend with MongoDb and RabbitMQ, Vue.js frontend </br>
-Project are down now'
+Node.js + MongoDb + RabbitMQ, Vue.js frontend'
 
   - role: Fullstack Javascript Developer
     time: 2014-03 - 2014-10
-    # company: Intaro
     details: 'Worked on in-house landing page constructor </br>
 Node.js backend with MongoDb, vanilla js frontend'
 
