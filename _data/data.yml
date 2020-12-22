@@ -46,7 +46,7 @@ sidebar:
 career-profile: 
     # title: Career Profile
     text: 'A highly skilled and efficient professional with over five years of experience in web and mobile development, including over three years in game development.     
-    A highly motivated, proactive, and focused developer who excels at achieving goals while working closely with designers and UX teams, with ability to quickly pick up and use new languages, tools and softwares'
+A highly motivated, proactive, and focused developer who excels at achieving goals while working closely with designers and UX teams, with ability to quickly pick up and use new languages, tools and softwares'
 
 
 studies: 
@@ -102,7 +102,7 @@ skills:
           level: 90%
         - skill:
           name: Shaders
-          level: 60%
+          level: 60%          
         - skill:
           name: MongoDb
           level: 70%
@@ -111,7 +111,7 @@ skills:
           level: 80%
         - skill:
           name: Git
-          level: 80%
+          level: 80%          
         - skill:
           name: HTML5 & CSS
           level: 50%          
@@ -120,26 +120,26 @@ experiences:
   - role: Fullstack Javascript Developed
     time: 2018-08 - 2020-09
     company: Kosmos Games
-    details: 'Worked on WebSockets-based back end of web and mobile multiplayer games for tens of thousand active players.<br/>
-Architected and developed a scalable game analytics system with very detailed action logs for every player.<br/>'
+    details: 'Worked on WebSockets-based backend of web and mobile multiplayer games for tens of thousand active players <br/>
+Architected and developed a scalable game analytics system with very detailed action logs for every player'
 
   - role: Unity developer
     time: 2017-07 - 2018-02
-    details: 'Developed a mobile game from scratch and delivered it to various app stores as well as providing documentation and art.</br>
-Built a game back end for players' social actions, messages, and clans.<br/>
-Contributed to the integration of analytics system, in-game ads, and in-app purchases.'
+    company: Freelance
+    details: 'Developed a mobile game from scratch and delivered it to various app stores worked by provided documentation and art <br/>
+Built a game back end for players social actions, messages, and clans <br/>
+Contributed to the integration of analytics system, in-game ads, and in-app purchases'
 
   - role: Game programmer
     time: 2016-03 - 2016-08
     company: Own project
-    details: 'Developed casual puzzle game on Phaser.js, works in desktop and mobile browsers </br>
-Available at <a href="http://y8.com/games/tomb_of_the_universe" target="_blank">http://y8.com/games/tomb_of_the_universe</a>'
+    details: 'Developed casual puzzle game on Phaser.js, works in desktop and mobile browsers'
 
   - role: Fullstack Javascript Developer
     time: 2015-07 - 2016-11
     company: Own startup
-    details: 'Architected and developed a successful multiplayer gambling site with thousands of players.</br>
-Created a microservices-based system with fast and stable RabbitMQ messaging.<br/>    
+    details: 'Architected and developed a successful multiplayer gambling site with thousands of players.<br/>
+Created a microservices-based system with fast and stable RabbitMQ messaging.<br/>
 Node.js + MongoDb + RabbitMQ, Vue.js frontend'
 
   - role: Junior PHP Developer
