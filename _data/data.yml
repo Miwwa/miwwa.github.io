@@ -45,8 +45,10 @@ sidebar:
 
 career-profile: 
     # title: Career Profile
-    text: 'A highly skilled and efficient professional with over five years of experience in web and mobile development, including over three years in game development.     
-A highly motivated, proactive, and focused developer who excels at achieving goals while working closely with designers and UX teams, with ability to quickly pick up and use new languages, tools and softwares'
+    text: 'Result-oriented Senior Software Development Engineer with more than 5 years of experience of practical enterprise experience in web and software development with main focus on JavaScript, Node.js.
+Well-developed skills in the development of products through the software lifecycle, from requirements definition through successful deployment. 
+Proven background in designing databases and queries, designing the architecture of an application and its components. Takes responsibility for building efficient, reliable, and reusable code. 
+Proactive and able to quickly learn new areas, follows latest updates in technologies, and strives to use them to improve quality and simplicity of developed software.'
 
 
 studies: 
@@ -114,39 +116,46 @@ skills:
           level: 80%          
         - skill:
           name: HTML5 & CSS
-          level: 50%          
+          level: 60%          
 
 experiences:
   - role: Fullstack Javascript Developed
     time: 2018-08 - 2020-09
     company: Kosmos Games
-    details: 'Worked on WebSockets-based backend of web and mobile multiplayer games for tens of thousand active players <br/>
-Architected and developed a scalable game analytics system with very detailed action logs for every player'
+    details: '- Worked on WebSockets-based backend of web and mobile multiplayer games for tens of thousands of active players<br/>
+- Worked on implementing new games features and seasonal events<br/>
+- Architected and developed a scalable game analytics system with very detailed action logs for every player<br/>
+- Developed admin panels for games and analytics<br/>
+- Refactored existing codebase in order to increase readability, reduced complexity, and improved performance<br/>
+- Coordinated with other developers, analysts and managers to translate requirements into functional specs'
 
   - role: Unity developer
     time: 2017-07 - 2018-02
     company: Freelance
-    details: 'Developed a mobile game from scratch and delivered it to various app stores worked by provided documentation and art <br/>
-Built a game back end for players social actions, messages, and clans <br/>
-Contributed to the integration of analytics system, in-game ads, and in-app purchases'
+    details: '- Developed a mobile game from the scratch and delivered it to various app stores working by provided documentation and art from the client<br/>
+- Contributed to the integration of analytics system, in-game ads, and in-app purchases<br/>
+- Worked on implementing game logic, features, and UI'
 
   - role: Game programmer
     time: 2016-03 - 2016-08
-    company: Own project
-    details: 'Developed casual puzzle game on Phaser.js, works in desktop and mobile browsers'
+    company: Pet project
+    details: '- Developed a mobile game from the scratch and delivered it to various app stores working by provided documentation and art from the client<br/>
+- Contributed to the integration of analytics system, in-game ads, and in-app purchases<br/>
+- Worked on implementing game logic, features, and UI'
 
   - role: Fullstack Javascript Developer
     time: 2015-07 - 2016-11
     company: Own startup
-    details: 'Architected and developed a successful multiplayer gambling site with thousands of players.<br/>
-Created a microservices-based system with fast and stable RabbitMQ messaging.<br/>
-Node.js + MongoDb + RabbitMQ, Vue.js frontend'
+    details: '- Worked on real-time multiplayer mini-games<br/>
+- Developed admin panel backend and frontend<br/>
+- Designed and developed microservice-based backend<br/>
+- Profiled and fixed performance issues'
 
   - role: Junior PHP Developer
     time: 2013-04 - 2013-09
     company: Intaro
-    details: 'Learned and used PHP, the Symphony framework, and plain JavaScript for a range of projects.</br>
-Made performance and stability tweaks for the open-source site monitoring system.'
+    details: '-Learned and used PHP, the Symphony framework, and plain JavaScript for a range of projects.</br>
+-Made performance and stability tweaks for the open-source site monitoring system.'
 
 # footer: 
 #     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
